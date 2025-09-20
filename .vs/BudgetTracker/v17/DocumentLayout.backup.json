@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sharma Shalabh\\source\\repos\\BudgetTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FD45-D294-4070-84CE-952069F2EE27}|BudgetTracker\\BudgetTracker.csproj|c:\\users\\sharma shalabh\\source\\repos\\budgettracker\\budgettracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FD45-D294-4070-84CE-952069F2EE27}|BudgetTracker\\BudgetTracker.csproj|solutionrelative:budgettracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E5FD45-D294-4070-84CE-952069F2EE27}|BudgetTracker\\BudgetTracker.csproj|c:\\users\\sharma shalabh\\source\\repos\\budgettracker\\budgettracker\\budgetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E5FD45-D294-4070-84CE-952069F2EE27}|BudgetTracker\\BudgetTracker.csproj|solutionrelative:budgettracker\\budgetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BudgetItem.cs",
+              "DocumentMoniker": "C:\\Users\\Sharma Shalabh\\source\\repos\\BudgetTracker\\BudgetTracker\\BudgetItem.cs",
+              "RelativeDocumentMoniker": "BudgetTracker\\BudgetItem.cs",
+              "ToolTip": "C:\\Users\\Sharma Shalabh\\source\\repos\\BudgetTracker\\BudgetTracker\\BudgetItem.cs",
+              "RelativeToolTip": "BudgetTracker\\BudgetItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:51:12.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sharma Shalabh\\source\\repos\\BudgetTracker\\BudgetTracker\\Program.cs",
+              "RelativeDocumentMoniker": "BudgetTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\Sharma Shalabh\\source\\repos\\BudgetTracker\\BudgetTracker\\Program.cs",
+              "RelativeToolTip": "BudgetTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:49:39.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
